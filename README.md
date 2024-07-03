@@ -5,7 +5,7 @@ You've probably found me through a CV, or I've spoken to you in person. You alre
 - 📝 [Sometimes I write](respigen.github.io/articles/) about my thoughts on development and job miscellania.  
 - 🛠️ Trying to pick up C#/.NET and improve my back-end skills. TODO: Rust, Ruby, Go, AWS, iOS development. Maybe something zany like F# or Gleam?
 
- You can reach at `rare.spigen@gmail.com` or however you got here in the first place. If I gave you a CV, use the contract details there.
+ You can reach me at `rare.spigen@gmail.com` or however you got here in the first place. If I gave you a CV, use the contract details there.
  
  You should really check out [this page](respigen.github.io) where all my projects and articles can be found, though. 
 
