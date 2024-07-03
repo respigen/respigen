@@ -13,5 +13,5 @@ You've probably found me through a CV, or I've spoken to you in person. You alre
 I've been contributing to
 - 📊 GitFiend
 - 🐰 Example code for cottontail-js
-- 🎛️ RG
+- THat other thing
 --->
